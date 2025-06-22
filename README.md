@@ -2,6 +2,9 @@
 <a href="#" target="_blank">
   <img src="svg/hoangnam1.svg" width="1200" alt="DEVHOANGNAM-official" />
 </a>
+<a>
+  <img src="svg/animated_image.svg" width="1200" alt="DEVHOANGNAM-official" />
+  </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
