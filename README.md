@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/tritoan.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/hoangnam.svg" width="1200" alt="trungquandev-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -83,5 +83,5 @@
 <h2 align="center">📑 DEV HOANG NAM 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/tritoan-quotes.svg" width="846" height="150" alt="iamtritoan" />
+  <img src="svg/hoangnam2.svg" width="846" height="150" alt="iamtritoan" />
 </a>
